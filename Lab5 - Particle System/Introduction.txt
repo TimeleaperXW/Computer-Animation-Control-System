@@ -1,0 +1,10 @@
+Particle System
+Many small yellow light balls rise high into the dark sky. I call them "the light of hope" :D
+
+Steps:
+1.Define a structure for particles
+2.Create the first generation of particles with a set of random attributes including position, velocity, acceleration and lifespan
+3.Create a square for each particle to keep the track of its movement
+4.Load an image (small yellow light ball) and attach it to the square as a texture
+5.Update the attributes of particles as time passes
+6.Create a new particle when disappears (lifespan comes to 0)

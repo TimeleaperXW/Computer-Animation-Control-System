@@ -1,0 +1,6 @@
+Physics-Based Motion Control System
+Steps:
+1.Generation 20 balls using given coordinates and velocity
+2.Make collision detection for each ball with the floor and every other ball
+3.Calculate new velocity to replace the original one after collision
+4.Update the coordinates and velocity as time passes

@@ -1,0 +1,11 @@
+Behavioral Motion Control System
+Steps:
+1.Create a leader unit with given coordinate and type of spline
+2.Create other units that make up the boids with given coordinates
+
+3.Calculate the velocity for the boids according to the 4 rules of behavior
+  i)follow
+  ii)group up
+  iii)avoid collision
+  iv)parallel
+4.Update the coordinates and volecity of the boids
