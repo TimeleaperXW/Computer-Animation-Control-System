@@ -1,0 +1,7 @@
+Basic Key-Framing Motion Control System
+Four options are available to generate the animation:
+1.Quaternion with Catmull-Rom Spline
+2.Quaternion with B-Spline
+3.Euler angle with Catmull_rom Spline
+4.Euler angle with B-Spline
+Choose one of them by commenting the other three lines in "Animate()" function.
